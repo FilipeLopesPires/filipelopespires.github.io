@@ -1,0 +1,113 @@
+# <AI bots>
+
+# Block all bots (fallback)
+User-agent: *
+Disallow: /
+
+# GPTBot is OpenAI's web crawler
+User-agent: GPTBot
+Disallow: /
+
+# Google Bard & Gemini
+User-agent: Google-Extended
+Disallow: /
+
+# ChatGPT-User is OpenAI's web crawler
+User-agent: ChatGPT-User
+Disallow: /
+
+# Common Crawl bot
+User-agent: CCBot
+Disallow: /
+
+# PiplBot is PiplBot's web crawler
+User-agent: PiplBot
+Disallow: /
+
+# anthropic-ai is Anthropic's web crawler
+User-agent: anthropic-ai
+Disallow: /
+
+# Claude-Web is Claude's web crawler
+User-agent: Claude-Web
+Disallow: /
+
+# ClaudeBot is another crawler from Claude
+User-agent: ClaudeBot
+Disallow: /
+
+# TurnitinBot is Turnitin's web crawler
+User-agent: TurnitinBot
+Disallow: /
+
+# PetalBot is Petal's web crawler
+User-agent: PetalBot
+Disallow: /
+
+# MoodleBot is Moodl's web crawler
+User-agent: MoodleBot
+Disallow: /
+
+# magpie-crawler is Brandwatch.com's web crawler
+User-agent: magpie-crawler
+Disallow: /
+
+# Meta 
+User-agent: meta-externalagent
+Disallow: /
+
+# Facebook
+User-agent: facebookexternalhit
+Disallow: /
+
+# Apple
+User-agent: Applebot
+Disallow: /
+
+# Yandex
+User-agent: Yandex
+Disallow: /
+
+# Amazon
+User-agent: Amazonbot
+Disallow: /
+
+# Others
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Sogou
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: youBot
+Disallow: /
+
+User-agent: HuggingFace
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: SeekportBot
+Disallow: /
+
+User-agent: oBot
+Disallow: /
+
+User-agent: Embedly
+Disallow: /
+
+# </AI bots>
+
+User-agent: ImagesiftBot
+Disallow: /
+
+# DotBot is OpenSiteExplorer's web crawler
+User-agent: DotBot
+Disallow: /
